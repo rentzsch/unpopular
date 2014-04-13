@@ -16,10 +16,6 @@
     ],
     "persistent": false
   },
-  "permissions": [
-    "https://github.com/",
-    "https://twitter.com/"
-  ],
   "content_scripts": [
     {
       "matches": [
