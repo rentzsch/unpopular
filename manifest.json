@@ -1,15 +1,9 @@
 {
+  "manifest_version": 2,
   "name": "Unpopular",
   "version": "0.0.1",
-  "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
-  "homepage_url": "http://extensionizr.com",
-  "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
-  },
-  "default_locale": "en",
+  "description": "Hides indicators of social acclaim on GitHub (stars, forks) and Twitter (followers, retweets, favs)",
+  "homepage_url": "http://github.com/rentzsch/unpopular-chrome-extension",
   "content_scripts": [
     {
       "matches": [
