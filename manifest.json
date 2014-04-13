@@ -16,11 +16,6 @@
     ],
     "persistent": false
   },
-  "page_action": {
-    "default_icon": "icons/icon19.png",
-    "default_title": "page action demo",
-    "default_popup": "src/page_action/page_action.html"
-  },
   "permissions": [
     "https://github.com/",
     "https://twitter.com/"
