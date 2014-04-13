@@ -1,5 +1,5 @@
 {
-  "name": "CHANGE THIS : Extension boilerplate",
+  "name": "Unpopular",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "This extension was created with the awesome extensionizr.com",
@@ -22,16 +22,24 @@
     "default_popup": "src/page_action/page_action.html"
   },
   "permissions": [
-    "https://github.com",
-    " https://twitter.com"
+    "https://github.com/",
+    "https://twitter.com/"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://www.google.com/*"
+        "https://github.com/*"
       ],
-      "js": [
-        "src/inject/inject.js"
+      "css": [
+        "src/inject/github.css"
+      ]
+    },
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "css": [
+        "src/inject/twitter.css"
       ]
     }
   ]
