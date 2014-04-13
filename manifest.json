@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "Unpopular",
   "version": "1.0.0",
-  "description": "Hides indicators of social acclaim on GitHub (watchers, stars, forks) and Twitter (followers, retweets, favs)",
-  "homepage_url": "http://github.com/rentzsch/unpopular-chrome-extension",
+  "description": "Hides indicators of social status on GitHub (watchers, stars, forks) and Twitter (followers, retweets, favs)",
+  "homepage_url": "http://github.com/rentzsch/unpopular",
   "content_scripts": [
     {
       "matches": [
