@@ -19,9 +19,9 @@ Installation
 
 1. Download Unpopular.crx from the [releases page](https://github.com/rentzsch/unpopular/releases).
 
-- In Chrome, choose Window > Extensions.
+2. In Chrome, choose Window > Extensions.
 
-- Drag Unpopular.crx into the page that appears.
+3. Drag Unpopular.crx into the page that appears.
 
 Version History
 ---------------
