@@ -13,6 +13,8 @@ Chrome extension that hides distracting indicators of social status including:
 	- Star count
 	- Fork count
 	- Follower count
+	
+Here's my [rationale](http://rentzsch.tumblr.com/post/90193963925/unpopular).
 
 Installation
 ------------
