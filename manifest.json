@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Unpopular",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hides indicators of social status on GitHub (watchers, stars, forks) and Twitter (followers, retweets, favs)",
   "homepage_url": "http://github.com/rentzsch/unpopular",
   "content_scripts": [
