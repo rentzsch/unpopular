@@ -21,7 +21,7 @@ Installation
 
 2. In Chrome, choose Window > Extensions.
 
-3. Drag Unpopular.crx into the page that appears.
+3. Drag Unpopular*.crx into the page that appears.
 
 Version History
 ---------------
